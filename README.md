@@ -9,8 +9,6 @@ Raied Ahmed Nishat, Fahmida Rahman, Nur Md. Robiul Hoque, and Shriful Islam
 Shahjalal University of Science and Technology, Sylhet 3114, Bangladesh
 
 
-The codes implement transfer learning algorithms for predicting undrained shear strength (USS) of soils using source-target regional datasets. The framework is designed to address domain shift in geotechnical data and enhance prediction accuracy under data-scarce conditions.  
-
 ---
 
 ## Files
